@@ -1,2 +1,4 @@
 # week2-102-demo
-In class git demo
+Brianna Dalton
+November 19, 2019
+GIT Workshop Week 2
